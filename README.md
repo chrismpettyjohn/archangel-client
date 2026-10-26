@@ -1,2 +1,8 @@
 # Nitro RP by LeChris
-Fork of Nitro by [Bill](https://github.com/billsonnn?tab=repositories)
+
+# Archangel-Client
+Archangel is a habbo roleplay client forked off of Nitro. It supports corps, gangs, weapons and client improvements
+
+## Developers
+* [Chris](https://github.com/chrismpettyjohn) - Roleplay modifications
+* [Bill](https://github.com/billsonnn?tab=repositories) - Nitro Base
